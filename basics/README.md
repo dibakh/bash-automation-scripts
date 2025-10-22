@@ -15,4 +15,9 @@
 - Added input validation and warning messages
 - Challenge: ignoring invalid inputs while summing numbers
 
+### 04_disk_alert.sh
+- Monitors disk usage and warns if usage exceeds threshold
+- Learned to use system commands and process output
+- Added color-coded alerts and custom threshold variable
+- Challenge: filtering output from `df` and handling percentage values
 
